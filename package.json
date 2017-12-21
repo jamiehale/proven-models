@@ -1,7 +1,7 @@
 {
   "name": "proven-models",
   "private": true,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Mongoose data models for the Proven suite.",
   "main": "index.js",
   "scripts": {
