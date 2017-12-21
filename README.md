@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/proven-systems/proven-indexer.svg?branch=master)](https://travis-ci.org/proven-systems/proven-indexer)
+[![Build Status](https://travis-ci.org/proven-systems/proven-models.svg?branch=master)](https://travis-ci.org/proven-systems/proven-models)
 
 # proven-models
 
