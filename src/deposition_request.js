@@ -1,9 +1,9 @@
 'use strict';
 
-const mongoose = require('mongoose');
-const Schema = mongoose.Schema;
+var mongoose = require('mongoose');
+var Schema = mongoose.Schema;
 
-const DepositionRequestSchema = new Schema({
+var DepositionRequestSchema = new Schema({
     ipfsHash: String,
     remoteAddress: String,
     submittedAt: {type: Date, default: Date.now},

@@ -1,9 +1,9 @@
 'use strict';
 
-const mongoose = require('mongoose');
-const Schema = mongoose.Schema;
+var mongoose = require('mongoose');
+var Schema = mongoose.Schema;
 
-const AssetHashSchema = new Schema({
+var AssetHashSchema = new Schema({
     ipfsHash: String,
     hashType: String,
     state: String
