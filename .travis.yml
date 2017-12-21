@@ -4,4 +4,4 @@ node_js:
 install:
   - npm install
 script:
-  - nodejs index.js
+  - node index.js
